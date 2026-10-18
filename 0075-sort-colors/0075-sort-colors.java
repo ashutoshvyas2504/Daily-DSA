@@ -12,7 +12,6 @@ class Solution {
 
                 low++;
                 mid++;
-
             } else if (nums[mid] == 1) {
                 mid++;
             } else {
@@ -23,5 +22,6 @@ class Solution {
                 high--;
             }
         }
+        System.out.println(Arrays.toString(nums));
     }
 }
