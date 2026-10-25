@@ -236,6 +236,7 @@
 | [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1137-n-th-tribonacci-number) |
 | [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
+| [2413-smallest-even-multiple](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2413-smallest-even-multiple) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3099-harshad-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3099-harshad-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -367,6 +368,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2413-smallest-even-multiple) |
 ## Primality Test
 |  |
 | ------- |
