@@ -1,23 +1,24 @@
 class Solution {
+    // Recursively
+   public int sumOfSquare(int n){
+       if(n==0){
+        return 0;
+       }
+     int digit = n % 10;
+
+     return digit * digit + sumOfSquare(n / 10);
+
+   }
+
     public boolean isHappy(int n) {
+      if(n==1){
+        return true;
+      }
 
-        HashSet<Integer> set = new HashSet<>();
+      if(n==4){
+        return false;
+      }
 
-        while (n != 1) {
-
-            if (set.contains(n)) {
-                return false;
-            }
-            set.add(n);
-
-            int sum = 0;
-            while (n > 0) {
-                int digit = n % 10;
-                sum = sum + digit * digit;
-                n = n / 10;
-            }
-           n = sum;
-        }
-          return true;
+      return isHappy(sumOfSquare(n));
     }
 }
