@@ -8,7 +8,7 @@ class Solution {
             currSum = currSum + nums[i];
         }
 
-        for (int i = 0; i <= nums.length; i++) {
+        for (int i = 1; i <= nums.length; i++) {
             actualSum = actualSum + i;
         }
             
