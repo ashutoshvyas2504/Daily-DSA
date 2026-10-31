@@ -1,21 +1,19 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        
+
         int actualSum = 0;
         int currSum = 0;
 
-        int n = nums.length;
-
-        for(int i = 0; i <= n; i++){
-             currSum = currSum + i;
+        for (int i = 0; i < nums.length; i++) {
+            currSum = currSum + nums[i];
         }
 
-        for(int i = 0; i < n; i++){
-            actualSum = actualSum + nums[i];
+        for (int i = 0; i <= nums.length; i++) {
+            actualSum = actualSum + i;
         }
+            
+            int ans = actualSum - currSum;
 
-        int ans =  currSum - actualSum;
-
-        return ans;
+            return ans;
     }
 }
