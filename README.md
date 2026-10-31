@@ -72,6 +72,7 @@
 | [0242-valid-anagram](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1796-second-largest-digit-in-a-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1796-second-largest-digit-in-a-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -204,6 +205,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1446-consecutive-characters) |
+| [1796-second-largest-digit-in-a-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1796-second-largest-digit-in-a-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3499-maximize-active-section-with-trade-i) |
