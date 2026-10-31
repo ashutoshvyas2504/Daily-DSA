@@ -1,5 +1,7 @@
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
+
+        //SLIDING WINDOW 
         
         HashSet <Integer> set = new HashSet <> ();
 
