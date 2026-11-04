@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
     public void sortColors(int[] nums) {
 
         int low = 0;
