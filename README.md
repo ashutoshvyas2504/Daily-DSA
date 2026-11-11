@@ -22,6 +22,7 @@
 | [0075-sort-colors](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -157,6 +158,7 @@
 | [0042-trapping-rain-water](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0509-fibonacci-number) |
