@@ -356,6 +356,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -364,6 +365,7 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
 ## Merge Sort
 |  |
