@@ -1,5 +1,6 @@
 class Solution {
     public int[] sortArrayByParityII(int[] nums) {
+        // Optimized
         int even = 0;
         int odd = 1;
 
