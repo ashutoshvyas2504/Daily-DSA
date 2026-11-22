@@ -76,6 +76,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1796-second-largest-digit-in-a-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -85,6 +86,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
@@ -207,6 +209,7 @@
 | [0257-binary-tree-paths](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0443-string-compression) |
@@ -278,6 +281,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 ## Union-Find
 |  |
 | ------- |
