@@ -58,6 +58,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
